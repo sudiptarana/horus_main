@@ -321,7 +321,7 @@ alert('User already registered. Please try again');
 
         
     <!-- Hero Section Begin -->
-    <section class="hero-section">
+    <section class="hero-section" >
         <div class="hero__slider owl-carousel">
             <div class="hero__item set-bg">
                 <div class="container">
@@ -336,11 +336,11 @@ alert('User already registered. Please try again');
                                 padding: 0;
                                 color:#fffffff;
                             ">
-                                <h2 style="color:#ffffff">Welcome to the <br />HORUS Healthcares<br /></h2>
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; No hassles of queue</h5><br />
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Cost effective</h5><br />
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Renowned doctors</h5><br />
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Safe and secure conversation</h5><br />
+                                <h2 style="color:#056495">Welcome to the <br />HORUS Healthcares<br /></h2>
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; No hassles of queue</h5><br />
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Cost effective</h5><br />
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Renowned doctors</h5><br />
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Safe and secure conversation</h5><br />
                                 
                                 <div class="col-lg-6 col-xs-6 col-md-6 col-sm-6">
                                 <a href="https://github.com/"><img src="img/g.png"></a>
@@ -407,10 +407,10 @@ alert('User already registered. Please try again');
                                 margin-right: 0px;
                                 padding: 0;
                             ">
-                            <h2 style="color:#ffffff">Welcome to the<br /> HORUS Healthcares<br /></h2>
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Regular update on Blogs/social media account</h5><br />
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Watch our doctors live sessions</h5><br />
-                                <h5 style="color:#ffffff"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Audio Video And SMS Facility.</h5>
+                            <h2 style="color:#056495">Welcome to the<br /> HORUS Healthcares<br /></h2>
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Regular update on Blogs/social media account</h5><br />
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Watch our doctors live sessions</h5><br />
+                                <h5 style="color:#056495"><i class="fa fa-check-circle" aria-hidden="true"></i> &nbsp; Audio Video And SMS Facility.</h5>
                                 
                                 <div class="col-lg-6 col-xs-6 col-md-6 col-sm-6">
                                 <a href="https://github.com/"><img src="img/g.png"></a>
