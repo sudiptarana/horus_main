@@ -344,7 +344,7 @@ $userRow=mysqli_fetch_array($res,MYSQLI_ASSOC);
 										<li>Indigestation</li>
 										<li>Prolong sour test in the mouth or others...</li>
 										</ul>
-										<a href="category1.php" class="btn btn-lg btn-primary btn-block signup-btn" role="button" name="next">NEXT</a>
+										<a href="test1.php" class="btn btn-lg btn-primary btn-block signup-btn" role="button" name="next">NEXT</a>
                                     
                                 </div>
                             </div>

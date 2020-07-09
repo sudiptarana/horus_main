@@ -323,7 +323,7 @@ alert('User already registered. Please try again');
     <!-- Hero Section Begin -->
     <section class="hero-section">
         <div class="hero__slider owl-carousel">
-            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__item set-bg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
@@ -395,7 +395,7 @@ alert('User already registered. Please try again');
                 </div>
             </div>
 
-            <div class="hero__item set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__item set-bg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6">
